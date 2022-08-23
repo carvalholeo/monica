@@ -1,3 +1,3 @@
-FROM monica:3.7.0-fpm-alpine
+FROM monica:3.7.0-fpm
 
-EXPOSE 9000
+EXPOSE 80
